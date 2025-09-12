@@ -3,7 +3,7 @@
 ## 📖 Overview
 A modern, responsive landing page for a **fitness club**, built with **HTML, CSS, and JavaScript**.
 
-👉 **Live Demo:** [Click Here](https://yourusername.github.io/fitness-landing/)
+👉 **Live Demo:** [Click Here](https://saranshaharwar-code.github.io/fitness-landing/)
 
 ---
 
@@ -25,3 +25,4 @@ A modern, responsive landing page for a **fitness club**, built with **HTML, CSS
 ---
 
 ## 📂 Project Structure
+
