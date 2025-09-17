@@ -25,4 +25,8 @@ A modern, responsive landing page for a **fitness club**, built with **HTML, CSS
 ---
 
 ## 📂 Project Structure
+## Screenshot
+![Fitness Landing Preview](screenshort.png)
+
+
 
